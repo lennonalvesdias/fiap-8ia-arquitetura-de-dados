@@ -19,12 +19,10 @@ Essa aplicação extrai somente os dados necessários para o trabalho, gera dist
 
 Na pasta `data` estão os arquivos extraidos da API e manipulados pela aplicação, sendo eles:
 
-| arquivo | descrição | origem |
+| arquivo | descrição |
 |---|---| --- |
-| [`companies.txt`](/data/companies.txt) | Lista de empresas | API 4devs |
-| [`mens.txt`](/data/mens.txt) | Lista de homens | API 4devs |
-| [`peoples.txt`](/data/peoples.txt) | Lista de pessoas | Aplicação Python |
-| [`universities.txt`](/data/universities.txt) | Lista de empresas | API 4devs |
-| [`womens.txt`](/data/womens.txt) | Lista de empresas | API 4devs |
+| [`companies.txt`](/data/companies.txt) | Lista de empresas |
+| [`peoples.txt`](/data/peoples.txt) | Lista de pessoas |
+| [`universities.txt`](/data/universities.txt) | Lista de universidades |
 
 #### * Trabalho em desenvolvimento.

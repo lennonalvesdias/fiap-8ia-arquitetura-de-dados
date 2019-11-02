@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import modules.helper as helper
+import modules.api as api
 
 POSITIONS = [1, 2, 3] # 1 administrativo # 2 gerencial # 3 diretoria
 POSITION_WEIGHTS = [60, 30, 20]
@@ -30,5 +31,8 @@ def peoples_to_mini(people_list, position_list):
 def get_positions_list(peoples):
     return helper.random_weights(POSITIONS, POSITION_WEIGHTS, len(peoples))
 
-def generate_peoples(list):
-    return peoples_to_mini(list, get_positions_list(list))
+def generate_peoples(amount_of_mens, amount_of_women):
+    mens = api.get_peoples('H', amount_of_mens)
+    women = api.get_peoples('M', amount_of_women)
+    peoples = mens + women
+    return peoples_to_mini(peoples, get_positions_list(peoples))

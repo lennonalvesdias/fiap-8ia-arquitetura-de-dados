@@ -12,5 +12,5 @@ def read_txt(file_path):
         return json.load(txt_file)
 
 def save_txt(file_path, content):
-    with open(file_path, 'w') as outfile:
-        json.dump(content, outfile, indent=4)
+    with open(file_path, 'w', encoding='utf-8') as outfile:
+        json.dump(content, outfile, indent=4, ensure_ascii=False)
