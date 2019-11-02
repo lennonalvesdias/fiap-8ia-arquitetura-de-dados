@@ -1,8 +1,206 @@
 [
     {
-        "nome": "",
-        "cidade": "",
-        "estado": "",
-        "area": ""
+        "nome": "Camila e Carla Advocacia ME",
+        "cidade": "Indaiatuba",
+        "estado": "SP",
+        "area": "Humanas"
+    },
+    {
+        "nome": "Vera e Cauã Marcenaria ME",
+        "cidade": "Suzano",
+        "estado": "SP",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Bruno e Augusto Alimentos ME",
+        "cidade": "Santa Bárbara D'Oeste",
+        "estado": "SP",
+        "area": "Humanas"
+    },
+    {
+        "nome": "Lavínia e Lucas Pizzaria ME",
+        "cidade": "São José do Rio Preto",
+        "estado": "SP",
+        "area": "Biológicas"
+    },
+    {
+        "nome": "Raimundo e Gustavo Locações de Automóveis Ltda",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "area": "Biológicas"
+    },
+    {
+        "nome": "Melissa e Stefany Contábil Ltda",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "area": "Biológicas"
+    },
+    {
+        "nome": "Luana e Pedro Henrique Ferragens Ltda",
+        "cidade": "Itu",
+        "estado": "SP",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Manoel e Bento Padaria ME",
+        "cidade": "Itapecerica da Serra",
+        "estado": "SP",
+        "area": "Humanas"
+    },
+    {
+        "nome": "Vitor e Isabel Alimentos Ltda",
+        "cidade": "Indaiatuba",
+        "estado": "SP",
+        "area": "Biológicas"
+    },
+    {
+        "nome": "Jaqueline e Pedro Pizzaria Delivery ME",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Anthony e Ricardo Ferragens ME",
+        "cidade": "Rio das Ostras",
+        "estado": "RJ",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Sara e Benedita Restaurante Ltda",
+        "cidade": "Barra do Piraí",
+        "estado": "RJ",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Thiago e Sandra Restaurante Ltda",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Daniela e Iago Pães e Doces ME",
+        "cidade": "Maricá",
+        "estado": "RJ",
+        "area": "Humanas"
+    },
+    {
+        "nome": "Lucas e Aline Filmagens Ltda",
+        "cidade": "Maricá",
+        "estado": "RJ",
+        "area": "Biológicas"
+    },
+    {
+        "nome": "Geraldo e Jéssica Casa Noturna Ltda",
+        "cidade": "São Gonçalo",
+        "estado": "RJ",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Henry e Antonio Transportes Ltda",
+        "cidade": "Barra Mansa",
+        "estado": "RJ",
+        "area": "Humanas"
+    },
+    {
+        "nome": "Yasmin e Analu Pães e Doces ME",
+        "cidade": "Maricá",
+        "estado": "RJ",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Carlos e Isis Entulhos Ltda",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Isabel e Malu Telecomunicações Ltda",
+        "cidade": "Belford Roxo",
+        "estado": "RJ",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Isabel e Caleb Pizzaria ME",
+        "cidade": "Contagem",
+        "estado": "MG",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Murilo e Valentina Entregas Expressas Ltda",
+        "cidade": "Passos",
+        "estado": "MG",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Henrique e Luiz Telecom ME",
+        "cidade": "Uberaba",
+        "estado": "MG",
+        "area": "Biológicas"
+    },
+    {
+        "nome": "Rafaela e Cecília Mudanças ME",
+        "cidade": "Belo Horizonte",
+        "estado": "MG",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Cecília e Daniela Alimentos Ltda",
+        "cidade": "Varginha",
+        "estado": "MG",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Lavínia e Thiago Pizzaria Delivery Ltda",
+        "cidade": "Caratinga",
+        "estado": "MG",
+        "area": "Biológicas"
+    },
+    {
+        "nome": "Joaquim e Lara Telecomunicações ME",
+        "cidade": "Montes Claros",
+        "estado": "MG",
+        "area": "Humanas"
+    },
+    {
+        "nome": "Tatiane e Daniela Marketing ME",
+        "cidade": "Cianorte",
+        "estado": "PR",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Yuri e Edson Adega ME",
+        "cidade": "Londrina",
+        "estado": "PR",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Stefany e Isaac Construções ME",
+        "cidade": "Telêmaco Borba",
+        "estado": "PR",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Davi e Elza Buffet ME",
+        "cidade": "Colombo",
+        "estado": "PR",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Rayssa e Isabella Assessoria Jurídica ME",
+        "cidade": "Londrina",
+        "estado": "PR",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Andreia e Andreia Entregas Expressas ME",
+        "cidade": "Pinhais",
+        "estado": "PR",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Juliana e Marcos Vinicius Informática Ltda",
+        "cidade": "Ponta Grossa",
+        "estado": "PR",
+        "area": "Exatas"
     }
 ]
