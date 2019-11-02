@@ -21,10 +21,10 @@ Na pasta `data` estão os arquivos extraidos da API e manipulados pela aplicaç�
 
 | arquivo | descrição | origem |
 |---|---| --- |
-| `companies.txt` | Lista de empresas | API 4devs |
-| `mens.txt` | Lista de homens | API 4devs |
-| `peoples.txt` | Lista de pessoas | Aplicação Python |
-| `universities.txt` | Lista de empresas | API 4devs |
-| `womens.txt` | Lista de empresas | API 4devs |
+| [`companies.txt`](/data/companies.txt) | Lista de empresas | API 4devs |
+| [`mens.txt`](/data/mens.txt) | Lista de homens | API 4devs |
+| [`peoples.txt`](/data/peoples.txt) | Lista de pessoas | Aplicação Python |
+| [`universities.txt`](/data/universities.txt) | Lista de empresas | API 4devs |
+| [`womens.txt`](/data/womens.txt) | Lista de empresas | API 4devs |
 
 #### * Trabalho em desenvolvimento.
