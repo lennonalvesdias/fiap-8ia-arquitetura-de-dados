@@ -1,6 +1,6 @@
 # ![https://www.fiap.com.br/](https://img.shields.io/badge/FIAP-red.svg?longCache=true&style=for-the-badge) MBA - Artifical Intelligence & Machine Learning
 
-#### Cintia Akie Nakano . RM 333603 / Lennon V. Alves Dias . RM 334415 / Mateus Aguiar Florentino . RM 334444
+#### Cintia Akie Nakano . RM 333603 // Lennon V. Alves Dias . RM 334415 // Mateus Aguiar Florentino . RM 334444
 
 <h1 align="center">
     Arquitetura de Dados
