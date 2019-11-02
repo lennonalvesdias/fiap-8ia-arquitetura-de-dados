@@ -1,7 +1,102 @@
 [
     {
-        "nome": "",
-        "cidade": "",
-        "estado": ""
+        "nome": "Centro Universitário Barao de Maua",
+        "estado": "SP",
+        "cidade": "São Paulo"
+    },
+    {
+        "nome": "Universidade Braz Cubas",
+        "estado": "SP",
+        "cidade": "São Paulo"
+    },
+    {
+        "nome": "Universidade Candido Mendes",
+        "estado": "SP",
+        "cidade": "São Paulo"
+    },
+    {
+        "nome": "Universidade Castelo Branco",
+        "estado": "SP",
+        "cidade": "São Paulo"
+    },
+    {
+        "nome": "Centro Universitário Claretiano",
+        "estado": "SP",
+        "cidade": "São Paulo"
+    },
+    {
+        "nome": "Centro Regional Universitário de Espiríto Santo do Pinhal",
+        "estado": "PR",
+        "cidade": "Curitiba"
+    },
+    {
+        "nome": "EMESCAM - Escola Superior de Ciências da Santa Casa de Misericórdia de Vitória",
+        "estado": "SP",
+        "cidade": "São Paulo"
+    },
+    {
+        "nome": "Universidade Federal de São Paulo",
+        "estado": "SP",
+        "cidade": "São Paulo"
+    },
+    {
+        "nome": "Universidade Estácio de Sá",
+        "estado": "PR",
+        "cidade": "Curitiba"
+    },
+    {
+        "nome": "FAAP - Fundação Armando Alvares Penteado",
+        "estado": "SP",
+        "cidade": "São Paulo"
+    },
+    {
+        "nome": "Faculdades Integradas Curitiba",
+        "estado": "RJ",
+        "cidade": "Rio de Janeiro"
+    },
+    {
+        "nome": "FAE Business School - Faculdade de Administração e Economia",
+        "estado": "PR",
+        "cidade": "Curitiba"
+    },
+    {
+        "nome": "Fundação Educacional de Ituverava",
+        "estado": "SP",
+        "cidade": "São Paulo"
+    },
+    {
+        "nome": "Faculdade Integradas do Ceará",
+        "estado": "PR",
+        "cidade": "Curitiba"
+    },
+    {
+        "nome": "Universidade do Amazonas",
+        "estado": "SP",
+        "cidade": "São Paulo"
+    },
+    {
+        "nome": "Universidade Regional de Blumenau",
+        "estado": "PR",
+        "cidade": "Curitiba"
+    },
+    {
+        "nome": "Universidade do Rio Grande",
+        "estado": "SP",
+        "cidade": "São Paulo"
+    },
+    {
+        "nome": "Instituto Nacional de Matemática Pura e Aplicada - IMPA",
+        "estado": "RJ",
+        "cidade": "Rio de Janeiro"
+    },
+    {
+        "nome": "Instituto Tecnológico de Aeronáutica",
+        "estado": "PR",
+        "cidade": "Curitiba"
+    },
+    {
+        "nome": "Faculdade Italo Brasileira",
+        "estado": "SP",
+        "cidade": "São Paulo"
     }
 ]
