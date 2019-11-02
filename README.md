@@ -15,7 +15,7 @@
 Foi desenvolvida uma aplicação em `Python` para tratar os dados obtidos pelas APIs do site [4devs.com.br](https://www.4devs.com.br/).
 Essa aplicação extrai somente os dados necessários para o trabalho, gera distribuições aleatórias de dados faltantes de acordo com pesos e realiza manipulações.
 
-# 📂 Dados
+## 📂 Dados
 
 Na pasta `data` estão os arquivos extraidos da API e manipulados pela aplicação, sendo eles:
 
