@@ -1,4 +1,4 @@
-#!C:\\Users\\lenno\\Anaconda3\\python.exe
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 import requests
@@ -16,7 +16,7 @@ def get_peoples(gender, quantity):
 def get_company(state, age):
     params = {'acao': 'gerar_empresa', 'pontuacao': 'N', 'estado': state, 'idade': age}
     companie = requests.post(URL_4DEVS, data=params).text
-    soup = BeautifulSoup(companie, features="lxml")
+    soup = BeautifulSoup(companie, "lxml")
     return {
         'nome': soup.find(id='nome').get('value'),
         'cidade': soup.find(id='cidade').get('value'),

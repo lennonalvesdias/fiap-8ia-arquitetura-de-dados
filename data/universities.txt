@@ -6,13 +6,13 @@
     },
     {
         "nome": "Universidade Braz Cubas",
-        "estado": "SP",
-        "cidade": "São Paulo"
+        "estado": "RJ",
+        "cidade": "Rio de Janeiro"
     },
     {
         "nome": "Universidade Candido Mendes",
-        "estado": "SP",
-        "cidade": "São Paulo"
+        "estado": "RJ",
+        "cidade": "Rio de Janeiro"
     },
     {
         "nome": "Universidade Castelo Branco",
@@ -26,8 +26,8 @@
     },
     {
         "nome": "Centro Regional Universitário de Espiríto Santo do Pinhal",
-        "estado": "PR",
-        "cidade": "Curitiba"
+        "estado": "RJ",
+        "cidade": "Rio de Janeiro"
     },
     {
         "nome": "EMESCAM - Escola Superior de Ciências da Santa Casa de Misericórdia de Vitória",
@@ -36,13 +36,13 @@
     },
     {
         "nome": "Universidade Federal de São Paulo",
-        "estado": "SP",
-        "cidade": "São Paulo"
+        "estado": "RJ",
+        "cidade": "Rio de Janeiro"
     },
     {
         "nome": "Universidade Estácio de Sá",
-        "estado": "PR",
-        "cidade": "Curitiba"
+        "estado": "RJ",
+        "cidade": "Rio de Janeiro"
     },
     {
         "nome": "FAAP - Fundação Armando Alvares Penteado",
@@ -51,33 +51,33 @@
     },
     {
         "nome": "Faculdades Integradas Curitiba",
+        "estado": "SP",
+        "cidade": "São Paulo"
+    },
+    {
+        "nome": "FAE Business School - Faculdade de Administração e Economia",
+        "estado": "SP",
+        "cidade": "São Paulo"
+    },
+    {
+        "nome": "Fundação Educacional de Ituverava",
+        "estado": "PR",
+        "cidade": "Curitiba"
+    },
+    {
+        "nome": "Faculdade Integradas do Ceará",
         "estado": "RJ",
         "cidade": "Rio de Janeiro"
     },
     {
-        "nome": "FAE Business School - Faculdade de Administração e Economia",
-        "estado": "PR",
-        "cidade": "Curitiba"
-    },
-    {
-        "nome": "Fundação Educacional de Ituverava",
-        "estado": "SP",
-        "cidade": "São Paulo"
-    },
-    {
-        "nome": "Faculdade Integradas do Ceará",
-        "estado": "PR",
-        "cidade": "Curitiba"
-    },
-    {
         "nome": "Universidade do Amazonas",
-        "estado": "SP",
-        "cidade": "São Paulo"
+        "estado": "RJ",
+        "cidade": "Rio de Janeiro"
     },
     {
         "nome": "Universidade Regional de Blumenau",
-        "estado": "PR",
-        "cidade": "Curitiba"
+        "estado": "SP",
+        "cidade": "São Paulo"
     },
     {
         "nome": "Universidade do Rio Grande",
@@ -86,13 +86,13 @@
     },
     {
         "nome": "Instituto Nacional de Matemática Pura e Aplicada - IMPA",
-        "estado": "RJ",
-        "cidade": "Rio de Janeiro"
+        "estado": "SP",
+        "cidade": "São Paulo"
     },
     {
         "nome": "Instituto Tecnológico de Aeronáutica",
-        "estado": "PR",
-        "cidade": "Curitiba"
+        "estado": "SP",
+        "cidade": "São Paulo"
     },
     {
         "nome": "Faculdade Italo Brasileira",

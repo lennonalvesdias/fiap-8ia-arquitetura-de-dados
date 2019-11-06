@@ -6,5 +6,5 @@ setup(name='Trabalho Final Arquitetura',
       author='lennonalvesdias',
       author_email='lennonalvesdias@gmail.com',
       url='',
-      packages=['requests'],
+      packages=['requests','bs4'],
       )

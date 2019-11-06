@@ -1,4 +1,4 @@
-#!C:\\Users\\lenno\\Anaconda3\\python.exe
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 import modules.helper as helper
