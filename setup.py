@@ -6,5 +6,5 @@ setup(name='Trabalho Final Arquitetura',
       author='lennonalvesdias',
       author_email='lennonalvesdias@gmail.com',
       url='',
-      packages=['requests', 'bs4', 'py2neo'],
+      packages=['requests', 'bs4', 'py2neo', 'lxml','numpy'],
       )

@@ -1,61 +1,49 @@
 [
     {
-        "nome": "Cláudio e Arthur Joalheria Ltda",
-        "cidade": "Itu",
+        "nome": "Isis e Analu Entregas Expressas ME",
+        "cidade": "Americana",
         "estado": "SP",
         "area": "Exatas"
     },
     {
-        "nome": "Augusto e Sebastiana Corretores Associados ME",
-        "cidade": "Diadema",
+        "nome": "Martin e Cristiane Entregas Expressas ME",
+        "cidade": "Piracicaba",
         "estado": "SP",
-        "area": "Exatas"
+        "area": "Humanas"
     },
     {
-        "nome": "Francisca e Cauã Restaurante Ltda",
-        "cidade": "São Paulo",
-        "estado": "SP",
-        "area": "Exatas"
-    },
-    {
-        "nome": "Ayla e Victor Financeira Ltda",
-        "cidade": "Volta Redonda",
-        "estado": "RJ",
-        "area": "Exatas"
-    },
-    {
-        "nome": "Emanuel e Analu Assessoria Jurídica ME",
-        "cidade": "Magé",
-        "estado": "RJ",
-        "area": "Biológicas"
-    },
-    {
-        "nome": "Marcos e Luana Padaria Ltda",
+        "nome": "Fábio e Kaique Pizzaria Delivery ME",
         "cidade": "São Gonçalo",
         "estado": "RJ",
         "area": "Biológicas"
     },
     {
-        "nome": "Heloise e Bento Entregas Expressas Ltda",
-        "cidade": "Divinópolis",
+        "nome": "Camila e Luzia Doces & Salgados ME",
+        "cidade": "Nova Friburgo",
+        "estado": "RJ",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Enzo e Brenda Corretores Associados Ltda",
+        "cidade": "Ribeirão das Neves",
         "estado": "MG",
         "area": "Exatas"
     },
     {
-        "nome": "Fernando e Marcelo Pizzaria Delivery ME",
-        "cidade": "Sete Lagoas",
+        "nome": "Isabelly e Sabrina Advocacia ME",
+        "cidade": "Contagem",
         "estado": "MG",
-        "area": "Humanas"
+        "area": "Exatas"
     },
     {
-        "nome": "Antônia e Sônia Ferragens Ltda",
-        "cidade": "Laranjeiras do Sul",
+        "nome": "Raimundo e Yasmin Advocacia Ltda",
+        "cidade": "Apucarana",
         "estado": "PR",
-        "area": "Biológicas"
+        "area": "Exatas"
     },
     {
-        "nome": "Diogo e Eduardo Corretores Associados Ltda",
-        "cidade": "Ponta Grossa",
+        "nome": "Thales e Isaac Entregas Expressas ME",
+        "cidade": "Colombo",
         "estado": "PR",
         "area": "Exatas"
     }

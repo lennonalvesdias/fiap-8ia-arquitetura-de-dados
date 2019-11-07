@@ -1,22 +1,22 @@
 [
     {
         "nome": "Centro Universitário Barao de Maua",
-        "estado": "SP",
-        "cidade": "São Paulo"
+        "estado": "RJ",
+        "cidade": "Rio de Janeiro"
     },
     {
         "nome": "Universidade Braz Cubas",
-        "estado": "PR",
-        "cidade": "Curitiba"
+        "estado": "SP",
+        "cidade": "São Paulo"
     },
     {
         "nome": "Universidade Candido Mendes",
-        "estado": "PR",
-        "cidade": "Curitiba"
+        "estado": "RJ",
+        "cidade": "Rio de Janeiro"
     },
     {
         "nome": "Universidade Castelo Branco",
-        "estado": "SP",
-        "cidade": "São Paulo"
+        "estado": "PR",
+        "cidade": "Curitiba"
     }
 ]
