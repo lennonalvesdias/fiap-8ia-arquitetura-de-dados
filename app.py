@@ -6,6 +6,7 @@ import modules.people as people
 import modules.company as company
 import modules.university as university
 
+
 def main():
     try:
         print('running application')
@@ -23,6 +24,7 @@ def main():
         helper.save_txt('data/universities.txt', universities)
     except Exception as ex:
         print("{0.__name__}: {1}".format(type(ex), ex))
+
 
 if __name__ == "__main__":
     main()
