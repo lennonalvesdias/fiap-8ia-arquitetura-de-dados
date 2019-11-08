@@ -31,27 +31,13 @@ $ git clone https://github.com/lennonalvesdias/fiap-8ia-arquitetura-de-dados.git
 $ cd fiap-8ia-arquitetura-de-dados
 ```
 
-* Inicialize o banco de dados (*requer Docker*)
+* Execute os containers (*requer docker e docker-compose corretamente instalados*)
 
-``` sh
-$ ./init-database.sh
+```
+$ docker-compose up --build
 ```
 
-Você pode navegar ao [localhost:7474](http://localhost:7474/) para validar seu *database* ativo e configurar sua senha de conexão.
-
-* Instale as bibliotecas necessárias para execução da aplicação
-
-``` sh
-$ pip install -r requirements.txt
-```
-
-* Execute a aplicação para carregar a base inicial (você pode definir a quantidade de pessoas, empresas e universidades no [arquivo de execução](/app.py))
-
-``` sh
-$ ./app.py
-```
-
-* Após o término da execução, você pode navegar ao [*browser*](http://localhost:7474/) do `Neo4J` e executar as consultas entre as entidades e seus relacionamentos
+* Após o término da execução (você pode acompanhar os `logs` até identificar a mensagem `ending application`), navegue pelo [*browser*](http://localhost:7474/) e execute as consultas entre as entidades e seus relacionamentos
 
 ## 📂 Dados
 

@@ -7,7 +7,7 @@ import json
 
 class Repository(object):
     def __init__(self):
-        self._graph = Graph('bolt://localhost:7687', auth=('neo4j', "admin"))
+        self._graph = Graph('bolt://neo4jdb:7687', auth=('neo4j', "admin"))
 
     def clear(self):
         self._graph.delete_all()

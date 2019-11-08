@@ -1,0 +1,32 @@
+version: '3'
+
+services: 
+    pythonapp:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        ports:
+            - "5000:5000"
+        networks: 
+            - nginx-proxy
+        depends_on:
+            - neo4jdb
+        restart: on-failure
+    neo4jdb:
+        image: neo4j
+        ports:
+            - "7474:7474"
+            - "7687:7687"
+        networks: 
+            - nginx-proxy
+        restart: unless-stopped
+        environment:
+            - NEO4J_AUTH=neo4j/admin
+        volumes:
+            - "dbdata:/data"
+
+networks:
+  nginx-proxy:
+
+volumes:
+  dbdata:
