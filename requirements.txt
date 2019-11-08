@@ -1,3 +1,5 @@
 requests
 bs4
+py2neo
 lxml
+numpy
