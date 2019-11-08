@@ -41,13 +41,12 @@ def main():
     try:
         print('starting application')
         peoples, companies, universities = generate_database()
-        create_peoples_companies_relationships(peoples, companies, helper.random_weights(np.arange(0, len(companies)), None, len(peoples)))
-        create_peoples_university_relationships(peoples, universities, helper.random_weights(np.arange(0, len(universities)), None, len(peoples)))
+        create_peoples_companies_relationships(peoples, companies, helper.random_distribute(np.arange(0, len(companies)), len(peoples)))
+        create_peoples_university_relationships(peoples, universities, helper.random_distribute(np.arange(0, len(universities)), len(peoples)))
         print('ending application')
     except Exception as ex:
         print("{0.__name__}: {1}".format(type(ex), ex))
         raise Exception('application exit error')
-
 
 if __name__ == "__main__":
     main()

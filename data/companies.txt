@@ -1,50 +1,50 @@
 [
     {
-        "nome": "Isis e Analu Entregas Expressas ME",
-        "cidade": "Americana",
+        "nome": "Lorena e Elias Fotografias Ltda",
+        "cidade": "São Paulo",
         "estado": "SP",
-        "area": "Exatas"
+        "area": "Biológicas"
     },
     {
-        "nome": "Martin e Cristiane Entregas Expressas ME",
-        "cidade": "Piracicaba",
+        "nome": "Vicente e Nina Adega Ltda",
+        "cidade": "Paulínia",
         "estado": "SP",
         "area": "Humanas"
     },
     {
-        "nome": "Fábio e Kaique Pizzaria Delivery ME",
-        "cidade": "São Gonçalo",
+        "nome": "Ayla e Gustavo Pizzaria Delivery Ltda",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "area": "Exatas"
+    },
+    {
+        "nome": "Tiago e Mariane Vidros ME",
+        "cidade": "Belford Roxo",
         "estado": "RJ",
         "area": "Biológicas"
     },
     {
-        "nome": "Camila e Luzia Doces & Salgados ME",
-        "cidade": "Nova Friburgo",
-        "estado": "RJ",
-        "area": "Exatas"
-    },
-    {
-        "nome": "Enzo e Brenda Corretores Associados Ltda",
-        "cidade": "Ribeirão das Neves",
+        "nome": "Sebastião e Cristiane Restaurante ME",
+        "cidade": "Governador Valadares",
         "estado": "MG",
         "area": "Exatas"
     },
     {
-        "nome": "Isabelly e Sabrina Advocacia ME",
-        "cidade": "Contagem",
+        "nome": "Regina e Regina Mudanças Ltda",
+        "cidade": "Itaúna",
         "estado": "MG",
         "area": "Exatas"
     },
     {
-        "nome": "Raimundo e Yasmin Advocacia Ltda",
-        "cidade": "Apucarana",
+        "nome": "Regina e Raimundo Pizzaria Delivery Ltda",
+        "cidade": "Londrina",
         "estado": "PR",
-        "area": "Exatas"
+        "area": "Biológicas"
     },
     {
-        "nome": "Thales e Isaac Entregas Expressas ME",
-        "cidade": "Colombo",
+        "nome": "Jaqueline e Joana Lavanderia ME",
+        "cidade": "Cambé",
         "estado": "PR",
-        "area": "Exatas"
+        "area": "Biológicas"
     }
 ]

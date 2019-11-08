@@ -1,8 +1,8 @@
 [
     {
         "nome": "Centro Universitário Barao de Maua",
-        "estado": "RJ",
-        "cidade": "Rio de Janeiro"
+        "estado": "SP",
+        "cidade": "São Paulo"
     },
     {
         "nome": "Universidade Braz Cubas",
@@ -11,12 +11,12 @@
     },
     {
         "nome": "Universidade Candido Mendes",
-        "estado": "RJ",
-        "cidade": "Rio de Janeiro"
+        "estado": "PR",
+        "cidade": "Curitiba"
     },
     {
         "nome": "Universidade Castelo Branco",
-        "estado": "PR",
-        "cidade": "Curitiba"
+        "estado": "RJ",
+        "cidade": "Rio de Janeiro"
     }
 ]
