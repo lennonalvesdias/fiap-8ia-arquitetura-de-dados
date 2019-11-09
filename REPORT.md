@@ -8,7 +8,7 @@
 
 ## 💪 Motivação
 
-Atualmente, uma rede de contatos de um profissional é muito relevante, principalmente em eventos corporativos. A importância de ter conexões no mesmo ramo de conhecimento traz benefícios, tais como: comunicação com pessoas que entendem do assunto e possíveis dúvidas podem ser esclarecidas, indicações de trabalhos disponíveis, entre outros. Sendo assim, o grupo se inspirou nessa situação próxima da realidade, para demonstrar a conexão de pessoas no mercado de trabalho através de um banco de dados gerado aleatoriamente utilizando a técnica de grafos, que é extremamente visual e consequentemente fácil de ser interpretada.
+Atualmente, uma rede de contatos de um profissional é muito relevante, principalmente em eventos corporativos. A importância de ter conexões no mesmo ramo de conhecimento traz benefícios, tais como: comunicação com pessoas que entendem do assunto e possíveis dúvidas podem ser esclarecidas, indicações de trabalhos disponíveis, entre outros. Sendo assim, o grupo se inspirou nessa situação próxima da realidade, para demonstrar a conexão de pessoas no mercado de trabalho através de um banco de dados gerado aleatoriamente. Foi utilizada a técnica de grafos, que é extremamente visual e consequentemente fácil de ser interpretada, para a visualização das relações.
 
 ## 👩‍🏫 Introdução
 
@@ -29,6 +29,50 @@ Como os nós relacionados são fisicamente ligados à base de dados, acessar ess
 De forma geral, os bancos de dados de grafos são uma combinação natural para aplicações que gerenciam relações ou interdependências entre entidades. Você normalmente vai encontrar bancos de grafos por trás de sistemas de recomendações, sistemas de gerenciamento de conteúdos e assets, sistemas de gerenciamento de acesso e identidade, etc.
 
 ## 🕵‍♂ Consultas
+
+Como citado anteriormente, o grupo implementou uma API para gerar uma complexidade interessante de entidades (vértices) e relacionamentos (arestas), mas antes, segue alguns exemplos da criação dos mesmos, utilizando os próprios integrantes do grupo.
+
+* Criando as pessoas
+
+```
+CREATE (p1:Pessoa {Nome: 'Cintia'})
+CREATE (p2:Pessoa {Nome: 'Lennon'})
+CREATE (p3:Pessoa {Nome: 'Mateus'})
+
+CREATE (u1:Universidade {Nome: 'FIAP'})
+
+CREATE (e1:Empresa {Nome: 'FICO'})
+CREATE (e2:Empresa {Nome: 'XP Inc'})
+CREATE (e3:Empresa {Nome: 'Lumini'})
+```
+
+* Criando os relacionamentos entre pessoas e a universidade
+
+```
+MATCH(p1),(u1) WHERE p1.Nome='Cintia' AND u1.Nome='FIAP'
+CREATE (p1)-[r:ESTUDA]->(u1)
+
+MATCH(p2),(u1) WHERE p2.Nome='Lennon' AND u1.Nome='FIAP'
+CREATE (p2)-[r:ESTUDA]->(u1)
+
+MATCH(p3),(u1) WHERE p3.Nome='Mateus' AND u1.Nome='FIAP'
+CREATE (p3)-[r:ESTUDA]->(u1)
+```
+
+* Criando os relacionamentos entre pessoas e as empresas
+
+```
+MATCH(p1),(e1) WHERE p1.Nome='Cintia' AND e1.Nome='FICO'
+CREATE (p1)-[r:TRABALHA]->(e1)
+
+MATCH(p2),(e2) WHERE p2.Nome='Lennon' AND e2.Nome='XP Inc'
+CREATE (p2)-[r:TRABALHA]->(e2)
+
+MATCH(p3),(e3) WHERE p3.Nome='Mateus' AND e3.Nome='Lumini'
+CREATE (p3)-[r:TRABALHA]->(e3)
+```
+
+O exemplo acima serve para ilustrar a possibilidade de criação das entidades e relacionamentos. Para o restante dos trabalho e os exemplos abaixo demonstrados, utilizamos a base randomizada gerada pela aplicação (Ao final do documento é possível encontrar o link de acesso ao repositório público da aplicação).
 
 Realizando consultas ao banco de dados criado, evidencia-se 3 análises possíveis dentro do contexto desenvolvido.
 
